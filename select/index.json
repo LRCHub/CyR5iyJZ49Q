@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "They are",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-04T15:30:27.883427Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Times They Are A-Changin'",
+      "artist": "The Ian Campbell Folk Group",
+      "has_synced": false,
+      "path": "select/01_The_Times_They_Are_A-Changin'_The_Ian_Campbell_Folk_Group.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Times They Are A-Changin",
+      "artist": "The Ian Campbell Folk Group",
+      "has_synced": false,
+      "path": "select/02_The_Times_They_Are_A-Changin_The_Ian_Campbell_Folk_Group.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Times They Are a-Changin'",
+      "artist": "Blackmore's Night",
+      "has_synced": true,
+      "path": "select/03_The_Times_They_Are_a-Changin'_Blackmore's_Night.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "They Are Night Zombies!! They Are Neighbors!! They Have Come Back From The Dead!! Ahhhh!",
+      "artist": "Sufjan Stevens",
+      "has_synced": true,
+      "path": "select/04_They_Are_Night_Zombies!!_They_Are_Neighbors!!_They_Have_Come_Back_From_The_Dead!_Sufjan_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Times They are a-Changin'",
+      "artist": "Bryan Ferry",
+      "has_synced": true,
+      "path": "select/05_The_Times_They_are_a-Changin'_Bryan_Ferry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Times They Are A-Changin' - 2016 Remaster",
+      "artist": "Phil Collins",
+      "has_synced": false,
+      "path": "select/06_The_Times_They_Are_A-Changin'_-_2016_Remaster_Phil_Collins.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Times They Are A-Changin' (2016 Remaster)",
+      "artist": "Phil Collins",
+      "has_synced": false,
+      "path": "select/07_The_Times_They_Are_A-Changin'_(2016_Remaster)_Phil_Collins.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "They Are In Love",
+      "artist": "David Byrne",
+      "has_synced": true,
+      "path": "select/08_They_Are_In_Love_David_Byrne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "They Are the Meat",
+      "artist": "The Residents",
+      "has_synced": false,
+      "path": "select/09_They_Are_the_Meat_The_Residents.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bitter They Are, Harder They Fall",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/10_Bitter_They_Are,_Harder_They_Fall_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Times They Are A-Changin'",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/11_The_Times_They_Are_A-Changin'_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Objects In The Rear View Mirror May Appear Closer Than They Are",
+      "artist": "Meat Loaf",
+      "has_synced": false,
+      "path": "select/12_Objects_In_The_Rear_View_Mirror_May_Appear_Closer_Than_They_Are_Meat_Loaf.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "They Are All In Love",
+      "artist": "The Who",
+      "has_synced": true,
+      "path": "select/13_They_Are_All_In_Love_The_Who.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "They Are the Children of the Underworld",
+      "artist": "Deicide",
+      "has_synced": false,
+      "path": "select/14_They_Are_the_Children_of_the_Underworld_Deicide.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "They are",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_They_are_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
